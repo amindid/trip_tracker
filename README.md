@@ -66,6 +66,13 @@ A Flutter app for tracking your travel locations with GPS, photos, and notes.
 - `dio` - Location search API
 - `shared_preferences` - Local data storage
 
+
 ---
 
 **Built with Flutter** 🚀
+<img width="457" height="928" alt="Screenshot from 2025-09-13 06-58-40" src="https://github.com/user-attachments/assets/e9a7acc3-fd7c-43f6-8272-73d85670de0e" />
+<img width="457" height="928" alt="Screenshot from 2025-09-13 07-03-32" src="https://github.com/user-attachments/assets/894a0cc9-a52b-4d71-b01d-dd56a54512e7" />
+<img width="457" height="928" alt="Screenshot from 2025-09-13 07-06-20" src="https://github.com/user-attachments/assets/3e209e62-5260-4d1f-b96b-f8de1c0ee4bf" />
+<img width="460" height="928" alt="Screenshot from 2025-09-13 07-07-23" src="https://github.com/user-attachments/assets/956290d4-fe34-4689-ad05-a30a6d0a2f87" />
+<img width="460" height="928" alt="Screenshot from 2025-09-13 07-07-42" src="https://github.com/user-attachments/assets/606a9644-e2dd-4bcf-805f-694a8d6b2050" />
+
